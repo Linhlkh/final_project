@@ -1,0 +1,17 @@
+.h1-cus {
+    color: antiquewhite;
+    text-shadow: 2px 2px 4px #0d0808;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.p-cus {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center; 
+}

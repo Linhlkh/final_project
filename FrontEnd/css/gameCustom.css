@@ -1,0 +1,9 @@
+.container .row span {
+    color: rgb(1, 8, 15);
+    text-shadow: 2px 2px 4px #948282;
+    font-size: 25px;
+}
+
+.container .row .col-md-12 p{
+    font-size: 20px;
+}
